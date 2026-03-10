@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "DSA_Leet Code/Twopointer/Easy"

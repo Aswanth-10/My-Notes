@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INDEX.md",
+                "file": "DSA_Leet Code/Twopointer/Medium/167. Two Sum II - Input Array Is Sorted.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INDEX"
+              "title": "167. Two Sum II - Input Array Is Sorted"
+            }
+          },
+          {
+            "id": "9c7debedfd21f06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot"
+            }
+          },
+          {
+            "id": "9ff8a7134c8b4fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "42. Trapping Rain Water"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INDEX.md",
+                "file": "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for INDEX"
+              "title": "Backlinks for 42. Trapping Rain Water"
             }
           },
           {
@@ -175,8 +204,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,10 +222,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "5734b5fbe6970491",
+  "active": "9ff8a7134c8b4fda",
   "lastOpenFiles": [
-    "DSA_Leet Code/Twopointer/Medium/5. Longest Palindromic Substring.md",
+    "Untitled.base",
+    "Obsidian cheats/Cheats.md",
+    "Untitled.md",
+    "Spring Boot.md",
     "INDEX.md",
+    "DSA_Leet Code/Twopointer/Medium/167. Two Sum II - Input Array Is Sorted.md",
+    "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
+    "DSA_Leet Code/Twopointer/Medium/189. Rotate Array.md",
+    "DSA_Leet Code/Twopointer/Easy/125. Valid Palindrome.md",
+    "DSA_Leet Code/Twopointer/Medium/86. Partition List.md",
+    "DSA_Leet Code/Twopointer/Medium/82. Remove Duplicates from Sorted List II.md",
+    "DSA_Leet Code/Twopointer/Medium/75. Sort Colors.md",
+    "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
+    "DSA_Leet Code/Twopointer/Medium/31. Next Permutation.md",
+    "DSA_Leet Code/Twopointer/Medium/5. Longest Palindromic Substring.md",
     "DSA_Leet Code/Twopointer/Easy/26. Remove Duplicates from Sorted Array.md",
     "DSA_Leet Code/Twopointer/Hard",
     "DSA_Leet Code/Twopointer/Medium",
@@ -207,24 +248,17 @@
     "DSA_Leet Code/Twopointer/Untitled.md",
     "DSA_Leet Code/Twopointer/Medium/11. Container With Most Water.md",
     "].md",
-    "Obsidian cheats/Cheats.md",
     "DSA_Leet Code/Twopointer/# [5. Longest Palindromic Substring](.md",
     "DSA_Leet Code/Untitled.md",
     "DSA_Leet Code/Twopointer/three sum.md",
     "DSA_Leet Code/Twopointer/Maximum subarray.md",
     "Leetcode/ms.md",
-    "TODO QUESTIONS.md",
-    "Leetcode/15. 3Sum.md",
     "Leetcode",
     "DSA_Leet Code/Twopointer",
     "DSA_Leet Code",
-    "DSA/TODO.md",
     "Obsidian cheats",
-    "hello/hello.md",
     "DSA_Leet Code",
-    "Aswantfolder/DSA.md",
     "hello",
-    "Aswantfolder",
-    "Welcome.md"
+    "Aswantfolder"
   ]
 }
