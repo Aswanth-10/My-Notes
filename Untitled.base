@@ -4,3 +4,6 @@ views:
     filters:
       and:
         - file.folder == "DSA_Leet Code/Twopointer/Easy"
+    order:
+      - file.name
+      - difficulty

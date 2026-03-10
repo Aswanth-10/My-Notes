@@ -39,18 +39,16 @@
             "id": "9ff8a7134c8b4fda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "202. Happy Num"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
+                "file": "DSA_Leet Code/Twopointer/Medium/167. Two Sum II - Input Array Is Sorted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 202. Happy Num"
+              "title": "Backlinks for 167. Two Sum II - Input Array Is Sorted"
             }
           },
           {
@@ -223,16 +221,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ff8a7134c8b4fda",
+  "active": "5734b5fbe6970491",
   "lastOpenFiles": [
-    "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
     "Untitled.base",
+    "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
+    "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
     "Obsidian cheats/Cheats.md",
     "Untitled.md",
     "Spring Boot.md",
     "INDEX.md",
     "DSA_Leet Code/Twopointer/Medium/167. Two Sum II - Input Array Is Sorted.md",
-    "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
     "DSA_Leet Code/Twopointer/Medium/189. Rotate Array.md",
     "DSA_Leet Code/Twopointer/Easy/125. Valid Palindrome.md",
     "DSA_Leet Code/Twopointer/Medium/86. Partition List.md",
