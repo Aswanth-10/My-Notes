@@ -58,4 +58,19 @@ public class TodoController {
     }
 ```
    -  for checking use POSTMAN
-   - this is used to 
+   - this is used to store confidential datas (userid = password)
+   
+   1. PUT :
+   ```java
+   @PutMapping("/{id}")
+    String update(@PathVariable int id){
+        return "Update todo with id "+id;
+    }
+   ```
+2. DELETE:
+```java
+@DeleteMapping("/{id}")
+    String delete(@PathVariable int id){
+        return "Deleted todo with id "+id;
+    }
+```
