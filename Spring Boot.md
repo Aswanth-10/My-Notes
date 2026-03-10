@@ -47,5 +47,14 @@ public class TodoController {
         return "reqparam completed at "+ id;
     }
 	```
-- thus these three (@PathVarible,  @RequestParam)
+- thus these three (@PathVarible,  @RequestParam & simple path calling functions are used in GET )
 
+1. for POST Methods, use annotation @PostMapping("/path") & @RequestBody
+```java
+//request body:
+    @PostMapping("/create")
+    String create(@RequestBody String body){
+        return body;
+    }
+```
+   -  for checking use POSTMAN
