@@ -39,6 +39,12 @@ public class TodoController {
 9. POM.xml (project object Model) stores all dependencies, if etra dependencies needed => in "Maven Repositories" -> get dependencies and store them (ex: lombok)
 10. Request Param:
      - syntax => (path = localhost:8081/api/v1/todo?(key) = (value) & (key) = (value))
-
+	```java
+	 //request param:
+    @GetMapping("")
+    String todoreqparam(@RequestParam("todoid") int id){
+        return "reqparam completed at "+ id;
+    }
+	```
 
 
