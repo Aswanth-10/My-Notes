@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
+                "file": "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42. Trapping Rain Water"
+              "title": "202. Happy Num"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
+                "file": "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 42. Trapping Rain Water"
+              "title": "Backlinks for 202. Happy Num"
             }
           },
           {
@@ -204,7 +204,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,6 +225,7 @@
   },
   "active": "9ff8a7134c8b4fda",
   "lastOpenFiles": [
+    "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
     "Untitled.base",
     "Obsidian cheats/Cheats.md",
     "Untitled.md",
@@ -236,7 +238,6 @@
     "DSA_Leet Code/Twopointer/Medium/86. Partition List.md",
     "DSA_Leet Code/Twopointer/Medium/82. Remove Duplicates from Sorted List II.md",
     "DSA_Leet Code/Twopointer/Medium/75. Sort Colors.md",
-    "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
     "DSA_Leet Code/Twopointer/Medium/31. Next Permutation.md",
     "DSA_Leet Code/Twopointer/Medium/5. Longest Palindromic Substring.md",
     "DSA_Leet Code/Twopointer/Easy/26. Remove Duplicates from Sorted Array.md",
@@ -258,7 +259,6 @@
     "DSA_Leet Code",
     "Obsidian cheats",
     "DSA_Leet Code",
-    "hello",
-    "Aswantfolder"
+    "hello"
   ]
 }
