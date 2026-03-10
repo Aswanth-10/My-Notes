@@ -1,4 +1,4 @@
-## Terminal cmds:
+##  Terminal cmds:
 1. while creating a java class file, use annotations (@RestController)
 2. while creating call function, use annotation (@GetMapping("/path")), to store the root path (@RequestMapping("/api/v1/path")
 ```java
