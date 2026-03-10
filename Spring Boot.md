@@ -22,28 +22,11 @@ public class TodoController {
 ```
 1. using annotation(@PathVariable)
 ```java
-package com.aswanth.helloworld;
-
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-@RequestMapping("/api/v1/todo")
-public class TodoController {
-    @GetMapping("/get")
-    String todo(){
-        return "todo";
-    }
-	
 	//path variable:
     @GetMapping("/{id}")
     String todobyid(@PathVariable int id){
         return "id" + id;        
     }
-}
-
 ```
 1. mvn spring-boot:run     (to run)
 2. ./mvnw clean  (to clear targets)
