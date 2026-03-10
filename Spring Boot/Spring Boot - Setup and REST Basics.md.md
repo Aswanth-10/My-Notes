@@ -1,4 +1,3 @@
-# Spring Boot — Setup & REST Methods
 > Codeio YT Series | Videos 1–4
 
 ---
