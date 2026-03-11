@@ -35,7 +35,7 @@ def : ____________________
 	}
    ```
 
-1. @Autowired is used to instance other class files in another class file to get the components
+1. @Autowired is used to instance other class files in another class file to get the components (dependency injection)
 ```java
 @RestController
 @RequestMapping("/api/v1/todo")
@@ -49,3 +49,4 @@ public class TodoController {
     }
 ```
 
+- this type of spring usage for auto instantiate is known as "inversion of control"
