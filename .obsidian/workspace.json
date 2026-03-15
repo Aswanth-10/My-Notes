@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/DB Integration.md",
+                "file": "Spring Boot/Spring Boot - Setup and REST Basics.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DB Integration"
+              "title": "Spring Boot - Setup and REST Basics.md"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "355b4366f9e65ef0",
   "lastOpenFiles": [
-    "Spring Boot/Spring Boot - Setup and REST Basics.md.md",
     "Spring Boot/DB Integration.md",
+    "Spring Boot/Spring Boot - Setup and REST Basics.md.md",
     "Untitled",
     "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
     "INDEX.md",

@@ -60,17 +60,17 @@ Maven packages the project into a **single executable JAR** stored inside:
 
 # 🏷️ Core Spring Boot Annotations
 
-| Annotation | Scope | Purpose |
-|---|---|---|
-| `@RestController` | Class | Marks class as a REST API controller |
-| `@RequestMapping("/path")` | Class | Defines base/root path |
-| `@GetMapping("/path")` | Method | Handles HTTP GET requests |
-| `@PostMapping("/path")` | Method | Handles HTTP POST requests |
-| `@PutMapping("/path")` | Method | Handles HTTP PUT requests |
-| `@DeleteMapping("/path")` | Method | Handles HTTP DELETE requests |
-| `@PathVariable` | Parameter | Extracts value from URI path |
-| `@RequestParam` | Parameter | Extracts query parameter |
-| `@RequestBody` | Parameter | Binds HTTP request body to a method parameter |
+| Annotation                 | Scope     | Purpose                                       |
+| -------------------------- | --------- | --------------------------------------------- |
+| `@RestController`          | Class     | Marks class as a REST API controller          |
+| `@RequestMapping("/path")` | Class     | Defines base/root path                        |
+| `@GetMapping("/path")`     | Method    | Handles HTTP GET requests                     |
+| `@PostMapping("/path")`    | Method    | Handles HTTP POST requests                    |
+| `@PutMapping("/path")`     | Method    | Handles HTTP PUT requests                     |
+| `@DeleteMapping("/path")`  | Method    | Handles HTTP DELETE requests                  |
+| `@PathVariable`            | Parameter | Extracts value from URI path                  |
+| `@RequestParam`            | Parameter | Extracts query parameter                      |
+| `@RequestBody`             | Parameter | Binds HTTP request body to a method parameter |
 
 ---
 
