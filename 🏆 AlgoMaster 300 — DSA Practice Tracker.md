@@ -6,11 +6,11 @@
 
 > Progress: 0 / 10
 
-- [ ] 🟢 [[Move Zeroes]]
+- [x] 🟢 [[283. Move Zeroes]]
 - [ ] 🟢 [[Majority Element]]
-- [ ] 🟢 [[Remove Duplicates from Sorted Array]]
+- [x] 🟢 [[26. Remove Duplicates from Sorted Array]]
 - [ ] 🟢 [[Best Time to Buy and Sell Stock]]
-- [ ] 🟡 [[Rotate Array]]
+- [x] 🟡 [[189. Rotate Array]]
 - [ ] 🟡 [[Product of Array Except Self]]
 - [ ] 🟡 [[Best Time to Buy and Sell Stock II]]
 - [ ] 🟡 [[Number of Zero-Filled Subarrays]]
@@ -24,13 +24,13 @@
 > Progress: 0 / 6
 
 - [ ] 🟢 [[Is Subsequence]]
-- [ ] 🟢 [[Valid Palindrome]]
+- [ ] 🟢 [[125Valid Palindrome]]
 - [ ] 🟢 [[Longest Common Prefix]]
 - [ ] 🟡 [[Zigzag Conversion]]
 - [ ] 🟡 [[Reverse Words in a String]]
 - [ ] 🔴 [[Guess the Word]]
 
----
+.
 
 ## Bit Manipulation
 
