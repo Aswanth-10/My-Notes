@@ -19,6 +19,14 @@
 1. [ ]  [[42. Trapping Rain Water]]
 
 
+# Graph
+## Easy
+1. [ ] [[ 547. Number of Provinces]]
+2. [ ] 
+3. [ ] 
+## Medium
+## Hard
+
    
    
    

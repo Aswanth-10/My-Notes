@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/Spring Boot - Setup and REST Basics.md.md",
+                "file": "DSA_Leet Code/Twopointer/Easy/26. Remove Duplicates from Sorted Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Boot - Setup and REST Basics.md"
+              "title": "26. Remove Duplicates from Sorted Array"
             }
           }
         ]
@@ -196,17 +196,23 @@
   },
   "active": "355b4366f9e65ef0",
   "lastOpenFiles": [
-    "Spring Boot/DB Integration.md",
-    "Spring Boot/Spring Boot - Setup and REST Basics.md.md",
-    "Untitled",
-    "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
+    "547. Number of Provinces.md",
     "INDEX.md",
+    "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
+    "DSA_Leet Code/Twopointer/Easy/26. Remove Duplicates from Sorted Array.md",
+    "DSA_Leet Code/Graph/Hard",
+    "DSA_Leet Code/Graph/Medium",
+    "DSA_Leet Code/Graph/Easy",
+    "DSA_Leet Code/Graph",
+    "Untitled",
+    "Spring Boot/Spring Boot - Setup and REST Basics.md.md",
+    "Spring Boot/DB Integration.md",
+    "DSA_Leet Code/Twopointer/Easy/202. Happy Num.md",
     "Spring Boot",
     "DSA_Leet Code/Twopointer/Medium/167. Two Sum II - Input Array Is Sorted.md",
     "Untitled.base",
     "Untitled.md",
     "Spring Boot.md",
-    "DSA_Leet Code/Twopointer/Hard/42. Trapping Rain Water.md",
     "Obsidian cheats/Cheats.md",
     "DSA_Leet Code/Twopointer/Medium/189. Rotate Array.md",
     "DSA_Leet Code/Twopointer/Easy/125. Valid Palindrome.md",
@@ -215,7 +221,6 @@
     "DSA_Leet Code/Twopointer/Medium/75. Sort Colors.md",
     "DSA_Leet Code/Twopointer/Medium/31. Next Permutation.md",
     "DSA_Leet Code/Twopointer/Medium/5. Longest Palindromic Substring.md",
-    "DSA_Leet Code/Twopointer/Easy/26. Remove Duplicates from Sorted Array.md",
     "DSA_Leet Code/Twopointer/Hard",
     "DSA_Leet Code/Twopointer/Medium",
     "DSA_Leet Code/Twopointer/Easy",
@@ -226,11 +231,6 @@
     "].md",
     "DSA_Leet Code/Twopointer/# [5. Longest Palindromic Substring](.md",
     "DSA_Leet Code/Untitled.md",
-    "DSA_Leet Code/Twopointer/three sum.md",
-    "DSA_Leet Code/Twopointer/Maximum subarray.md",
-    "Leetcode",
-    "DSA_Leet Code/Twopointer",
-    "DSA_Leet Code",
-    "Obsidian cheats"
+    "DSA_Leet Code/Twopointer/three sum.md"
   ]
 }
