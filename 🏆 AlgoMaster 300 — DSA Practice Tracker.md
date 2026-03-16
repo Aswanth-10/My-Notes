@@ -24,13 +24,13 @@
 > Progress: 0 / 6
 
 - [ ] 🟢 [[Is Subsequence]]
-- [ ] 🟢 [[125Valid Palindrome]]
+- [x] 🟢 [[125. Valid Palindrome]]
 - [ ] 🟢 [[Longest Common Prefix]]
 - [ ] 🟡 [[Zigzag Conversion]]
 - [ ] 🟡 [[Reverse Words in a String]]
 - [ ] 🔴 [[Guess the Word]]
 
-.
+---
 
 ## Bit Manipulation
 
@@ -71,10 +71,10 @@
 > Progress: 0 / 5
 
 - [ ] 🟢 [[Merge Sorted Array]]
-- [ ] 🟡 [[Two Sum II - Input Array Is Sorted]]
-- [ ] 🟡 [[Container With Most Water]]
-- [ ] 🟡 [[3Sum]]
-- [ ] 🔴 [[Trapping Rain Water]]
+- [x] 🟡 [[167. Two Sum II - Input Array Is Sorted]]
+- [x] 🟡 [[11. Container With Most Water]]
+- [x] 🟡 [[16. 3Sum Closest]]
+- [x] 🔴 [[42. Trapping Rain Water]]
 
 ---
 
