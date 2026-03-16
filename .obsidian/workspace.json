@@ -11,10 +11,14 @@
             "id": "e4eff199e5c88a75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "238. Product of Array Except Self.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "238. Product of Array Except Self"
             }
           }
         ]
@@ -193,6 +197,7 @@
   "active": "e4eff199e5c88a75",
   "lastOpenFiles": [
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "238. Product of Array Except Self.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/121. Best Time to Buy and Sell Stock.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/169. Majority Element.md",
     "DSA_Leet Code/DSA - Patterns.md",
@@ -222,7 +227,6 @@
     "DSA_Leet Code/Graph/Easy",
     "DSA_Leet Code/Graph",
     "Untitled",
-    "Spring Boot/Spring Boot - Setup and REST Basics.md.md",
     "Spring Boot",
     "Untitled.base",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Hard",
