@@ -5,7 +5,7 @@ ___
 - [x] 🟢 [[283. Move Zeroes]]
 - [x] 🟢 [[169. Majority Element]]
 - [x] 🟢 [[26. Remove Duplicates from Sorted Array]]
-- [ ] 🟢 [[Best Time to Buy and Sell Stock]]
+- [x] 🟢 [[121. Best Time to Buy and Sell Stock]]
 - [x] 🟡 [[189. Rotate Array]]
 - [ ] 🟡 [[Product of Array Except Self]]
 - [ ] 🟡 [[Best Time to Buy and Sell Stock II]]
