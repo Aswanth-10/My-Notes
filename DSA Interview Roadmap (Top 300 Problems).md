@@ -192,3 +192,83 @@
 165. [ ] [[1514. Path With Maximum Probability]]
 166. [ ] [[1631. Path With Minimum Effort]]
 167. [ ] [[778. Swim in Rising Water]]
+# Eulerian Circuit
+168. [ ] [[332. Reconstruct Itinerary]]
+169. [ ] [[753. Cracking the Safe]]
+# 1-D Dynamic Programming
+170. [ ] [[70. Climbing Stairs]]
+171. [ ] [[746. Min Cost Climbing Stairs]]
+172. [ ] [[198. House Robber]]
+173. [ ] [[213. House Robber II]]
+# Knapsack DP
+174. [ ] [[416. Partition Equal Subset Sum]]
+175. [ ] [[494. Target Sum]]
+176. [ ] [[1049. Last Stone Weight II]]
+# Unbounded Knapsack DP
+177. [ ] [[322. Coin Change]]
+178. [ ] [[518. Coin Change II]]
+179. [ ] [[279. Perfect Squares]]
+# Longest Increasing Subsequence DP
+180. [ ] [[300. Longest Increasing Subsequence]]
+181. [ ] [[673. Number of Longest Increasing Subsequence]]
+182. [ ] [[354. Russian Doll Envelopes]]
+# 2D Grid DP
+183. [ ] [[63. Unique Paths II]]
+184. [ ] [[64. Minimum Path Sum]]
+185. [ ] [[120. Triangle]]
+186. [ ] [[1277. Count Square Submatrices with All Ones]]
+187. [ ] [[1937. Maximum Number of Points with Cost]]
+188. [ ] [[312. Burst Balloons]]
+189. [ ] [[1235. Maximum Profit in Job Scheduling]]
+190. [ ] [[741. Cherry Pickup]]
+191. [ ] [[329. Longest Increasing Path in a Matrix]]
+# String DP
+192. [ ] [[1143. Longest Common Subsequence]]
+193. [ ] [[72. Edit Distance]]
+194. [ ] [[516. Longest Palindromic Subsequence]]
+195. [ ] [[91. Decode Ways]]
+196. [ ] [[139. Word Break]]
+197. [ ] [[97. Interleaving String]]
+198. [ ] [[44. Wildcard Matching]]
+199. [ ] [[115. Distinct Subsequences]]
+200. [ ] [[132. Palindrome Partitioning II]]
+# Tree / Graph DP
+201. [ ] [[337. House Robber III]]
+202. [ ] [[95. Unique Binary Search Trees II]]
+203. [ ] [[1976. Number of Ways to Arrive at Destination]]
+204. [ ] [[968. Binary Tree Cameras]]
+205. [ ] [[834. Sum of Distances in Tree]]
+# Bitmask DP
+206. [ ] [[1986. Minimum Number of Work Sessions to Finish the Tasks]]
+207. [ ] [[2305. Fair Distribution of Cookies]]
+208. [ ] [[847. Shortest Path Visiting All Nodes]]
+# Digit DP
+209. [ ] [[357. Count Numbers with Unique Digits]]
+210. [ ] [[233. Number of Digit One]]
+211. [ ] [[902. Numbers At Most N Given Digit Set]]
+# Probability DP
+212. [ ] [[688. Knight Probability in Chessboard]]
+213. [ ] [[808. Soup Servings]]
+214. [ ] [[837. New 21 Game]]
+# State Machine DP
+215. [ ] [[309. Best Time to Buy and Sell Stock with Cooldown]]
+216. [ ] [[123. Best Time to Buy and Sell Stock III]]
+# String Matching
+217. [ ] [[686. Repeated String Match]]
+218. [ ] [[214. Shortest Palindrome]]
+#  Binary Indexed Tree / Segment Tree
+219. [ ] [[307. Range Sum Query - Mutable]]
+220. [ ] [[315. Count of Smaller Numbers After Self]]
+# Math / Geometry
+221. [ ] [[9. Palindrome Number]]
+222. [ ] [[7. Reverse Integer]]
+223. [ ] [[172. Factorial Trailing Zeroes]]
+224. [ ] [[593. Valid Square]]
+225. [ ] [[963. Minimum Area Rectangle II]]
+226. [ ] [[149. Max Points on a Line]]
+# Line Sweep
+227. [ ] [[1851. Minimum Interval to Include Each Query]]
+228. [ ] [[218. The Skyline Problem]]
+# Suffix Array
+229. [ ] [[1044. Longest Duplicate Substring]]
+
