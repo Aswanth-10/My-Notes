@@ -7,7 +7,7 @@ ___
 - [x] 🟢 [[26. Remove Duplicates from Sorted Array]]
 - [x] 🟢 [[121. Best Time to Buy and Sell Stock]]
 - [x] 🟡 [[189. Rotate Array]]
-- [ ] 🟡 [[238. Product of Array Except Self]]
+- [x] 🟡 [[238. Product of Array Except Self]]
 - [ ] 🟡 [[Best Time to Buy and Sell Stock II]]
 - [ ] 🟡 [[Number of Zero-Filled Subarrays]]
 - [ ] 🟡 [[Increasing Triplet Subsequence]]
