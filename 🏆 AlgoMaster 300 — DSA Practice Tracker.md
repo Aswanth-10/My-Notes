@@ -1,10 +1,9 @@
-
 ## [[DSA - Patterns]]
 ___
 ## Arrays
 
 - [x] 🟢 [[283. Move Zeroes]]
-- [ ] 🟢 [[Majority Element]]
+- [x] 🟢 [[169. Majority Element]]
 - [x] 🟢 [[26. Remove Duplicates from Sorted Array]]
 - [ ] 🟢 [[Best Time to Buy and Sell Stock]]
 - [x] 🟡 [[189. Rotate Array]]
