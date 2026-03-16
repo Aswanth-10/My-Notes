@@ -256,19 +256,4 @@
 # String Matching
 217. [ ] [[686. Repeated String Match]]
 218. [ ] [[214. Shortest Palindrome]]
-#  Binary Indexed Tree / Segment Tree
-219. [ ] [[307. Range Sum Query - Mutable]]
-220. [ ] [[315. Count of Smaller Numbers After Self]]
-# Math / Geometry
-221. [ ] [[9. Palindrome Number]]
-222. [ ] [[7. Reverse Integer]]
-223. [ ] [[172. Factorial Trailing Zeroes]]
-224. [ ] [[593. Valid Square]]
-225. [ ] [[963. Minimum Area Rectangle II]]
-226. [ ] [[149. Max Points on a Line]]
-# Line Sweep
-227. [ ] [[1851. Minimum Interval to Include Each Query]]
-228. [ ] [[218. The Skyline Problem]]
-# Suffix Array
-229. [ ] [[1044. Longest Duplicate Substring]]
-
+# # Binary Indexed Tree / Segment Tree
