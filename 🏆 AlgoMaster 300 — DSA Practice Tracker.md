@@ -514,7 +514,7 @@
 
 > Progress: 0 / 4
 
-- [ ] 🟡 [[Number of Provinces]]
+- [x] 🟡 [[547. Number of Provinces]]
 - [ ] 🟡 [[Redundant Connection]]
 - [ ] 🟡 [[Accounts Merge]]
 - [ ] 🔴 [[Minimize Malware Spread]]
@@ -554,9 +554,9 @@
 
 > Progress: 4 / 4 ✅
 
-- [x] 🟢 [[Climbing Stairs]]
-- [x] 🟢 [[Min Cost Climbing Stairs]]
-- [x] 🟡 [[House Robber]]
+- [ ] 🟢 [[Climbing Stairs]]
+- [ ] 🟢 [[Min Cost Climbing Stairs]]
+- [ ] 🟡 [[House Robber]]
 - [x] 🟡 [[House Robber II]]
 
 ---
