@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏆 AlgoMaster 300 — DSA Practice Tracker"
+              "title": "Patterns"
             }
           }
         ],
@@ -209,10 +209,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b73951cedddd203",
+  "active": "33c7a5ed5cff06d3",
   "lastOpenFiles": [
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/16. 3Sum Closest.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/16. 3Sum Closest.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Hard/42. Trapping Rain Water.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/167. Two Sum II - Input Array Is Sorted.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/125. Valid Palindrome.md",
