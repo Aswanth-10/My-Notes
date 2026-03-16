@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "042e015b17703919",
+        "id": "160a81bf90c06017",
         "type": "tabs",
         "children": [
           {
-            "id": "33c7a5ed5cff06d3",
+            "id": "e4eff199e5c88a75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🏆 AlgoMaster 300 — DSA Practice Tracker"
+              "title": "New tab"
             }
           }
         ]
@@ -194,10 +190,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b73951cedddd203",
+  "active": "e4eff199e5c88a75",
   "lastOpenFiles": [
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/121. Best Time to Buy and Sell Stock.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/121. Best Time to Buy and Sell Stock.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/169. Majority Element.md",
     "DSA_Leet Code/DSA - Patterns.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/167. Two Sum II - Input Array Is Sorted.md",
