@@ -11,10 +11,14 @@
             "id": "e4eff199e5c88a75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/125. Valid Palindrome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "125. Valid Palindrome"
             }
           }
         ]
@@ -192,8 +196,9 @@
   },
   "active": "e4eff199e5c88a75",
   "lastOpenFiles": [
-    "2026-03-17.md",
+    "Best Time to Buy and Sell Stock II.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "2026-03-17.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/238. Product of Array Except Self.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/121. Best Time to Buy and Sell Stock.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/169. Majority Element.md",
@@ -217,7 +222,6 @@
     "DSA_Leet Code/Twopointer & Arrays & Strings/Patterns.md",
     "Best Time to Buy and Sell Stock.md",
     "Product of Array Except Self.md",
-    "Move Zeroes.md",
     "DSA_Leet Code/Graph/Hard",
     "DSA_Leet Code/Graph/Medium",
     "DSA_Leet Code/Graph/Easy",
