@@ -11,10 +11,14 @@
             "id": "d1f0b945d149d7e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "26. Remove Duplicates from Sorted Array"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Boot/DB Integration.md",
+                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DB Integration"
+              "title": "Backlinks for 26. Remove Duplicates from Sorted Array"
             }
           },
           {
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 26. Remove Duplicates from Sorted Array"
             }
           },
           {
@@ -151,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 26. Remove Duplicates from Sorted Array"
             }
           }
         ],
@@ -178,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b73951cedddd203",
+  "active": "d1f0b945d149d7e0",
   "lastOpenFiles": [
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/392. Is Subsequence.md",
