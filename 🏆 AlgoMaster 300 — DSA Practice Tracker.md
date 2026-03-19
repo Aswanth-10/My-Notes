@@ -19,7 +19,7 @@ ___
 
 - [x] 🟢 [[392. Is Subsequence]]
 - [x] 🟢 [[125. Valid Palindrome]]
-- [ ] 🟢 [[Longest Common Prefix]]
+- [x] 🟢 [[14. Longest Common Prefix]]
 - [ ] 🟡 [[Zigzag Conversion]]
 - [ ] 🟡 [[Reverse Words in a String]]
 - [ ] 🔴 [[Guess the Word]]

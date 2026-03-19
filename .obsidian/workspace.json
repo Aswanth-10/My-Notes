@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b90456c04093b256",
+        "id": "9d0c8fd2d2d8a861",
         "type": "tabs",
         "children": [
           {
-            "id": "d1f0b945d149d7e0",
+            "id": "73914e0c96ab75f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "26. Remove Duplicates from Sorted Array"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
+                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 26. Remove Duplicates from Sorted Array"
+              "title": "Backlinks for 🏆 AlgoMaster 300 — DSA Practice Tracker"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
+                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 26. Remove Duplicates from Sorted Array"
+              "title": "Outgoing links from 🏆 AlgoMaster 300 — DSA Practice Tracker"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
+                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 26. Remove Duplicates from Sorted Array"
+              "title": "Outline of 🏆 AlgoMaster 300 — DSA Practice Tracker"
             }
           }
         ],
@@ -184,9 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a40ccc9e1484ab6",
+  "active": "9b73951cedddd203",
   "lastOpenFiles": [
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/14. Longest Common Prefix.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/392. Is Subsequence.md",
     "Best Time to Buy and Sell Stock II.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/125. Valid Palindrome.md",
@@ -210,9 +208,7 @@
     "DSA_Leet Code/Twopointer & Arrays & Strings/Hard/42. Trapping Rain Water.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/283. Move Zeroes.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/202. Happy Num.md",
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
     "DSA_Leet Code/Graph/Medium/547. Number of Provinces.md",
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Patterns.md",
     "DSA_Leet Code/Graph/Hard",
     "DSA_Leet Code/Graph/Medium",
     "DSA_Leet Code/Graph/Easy",
