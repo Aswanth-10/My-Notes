@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "showRibbon": true,
+  "showViewHeader": true
 }

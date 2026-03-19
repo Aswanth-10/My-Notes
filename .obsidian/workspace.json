@@ -143,7 +143,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -184,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "d1f0b945d149d7e0",
+  "active": "5a40ccc9e1484ab6",
   "lastOpenFiles": [
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/392. Is Subsequence.md",
