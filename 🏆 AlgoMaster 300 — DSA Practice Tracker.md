@@ -58,7 +58,7 @@ ___
 
 ## Two Pointers
 
-- [ ] 🟢 [[Merge Sorted Array]]
+- [x] 🟢 [[88. Merge Sorted Array]]
 - [x] 🟡 [[167. Two Sum II - Input Array Is Sorted]]
 - [x] 🟡 [[11. Container With Most Water]]
 - [x] 🟡 [[16. 3Sum Closest]]
