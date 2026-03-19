@@ -11,10 +11,14 @@
             "id": "73914e0c96ab75f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🏆 AlgoMaster 300 — DSA Practice Tracker"
             }
           }
         ]
@@ -160,9 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of 🏆 AlgoMaster 300 — DSA Practice Tracker"
             }
+          },
+          {
+            "id": "d8b6058c8330c8bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,7 +194,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b73951cedddd203",
+  "active": "73914e0c96ab75f6",
   "lastOpenFiles": [
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/14. Longest Common Prefix.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
