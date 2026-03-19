@@ -17,7 +17,7 @@ ___
 
 ## Strings
 
-- [ ] 🟢 [[Is Subsequence]]
+- [x] 🟢 [[392. Is Subsequence]]
 - [x] 🟢 [[125. Valid Palindrome]]
 - [ ] 🟢 [[Longest Common Prefix]]
 - [ ] 🟡 [[Zigzag Conversion]]

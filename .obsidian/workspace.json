@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "160a81bf90c06017",
+        "id": "b90456c04093b256",
         "type": "tabs",
         "children": [
           {
-            "id": "e4eff199e5c88a75",
+            "id": "d1f0b945d149d7e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Is Subsequence.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Is Subsequence"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338
+    "width": 200
   },
   "right": {
     "id": "5e2e0b10540f5bf2",
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,21 +151,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Is Subsequence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Is Subsequence"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4eff199e5c88a75",
+  "active": "d1f0b945d149d7e0",
   "lastOpenFiles": [
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
-    "Is Subsequence.md",
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/392. Is Subsequence.md",
     "Best Time to Buy and Sell Stock II.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/125. Valid Palindrome.md",
     "2026-03-19.md",
