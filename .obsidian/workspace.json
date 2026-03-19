@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/125. Valid Palindrome.md",
+                "file": "Is Subsequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "125. Valid Palindrome"
+              "title": "Is Subsequence"
             }
           }
         ]
@@ -156,27 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Is Subsequence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "b9cbb81d6c8b4441",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Is Subsequence"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,12 +186,13 @@
   },
   "active": "e4eff199e5c88a75",
   "lastOpenFiles": [
-    "2026-03-19.md",
+    "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "Is Subsequence.md",
+    "Best Time to Buy and Sell Stock II.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/125. Valid Palindrome.md",
+    "2026-03-19.md",
     "Untitled.base",
     "2026-03-17.md",
-    "Best Time to Buy and Sell Stock II.md",
-    "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/238. Product of Array Except Self.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/121. Best Time to Buy and Sell Stock.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/169. Majority Element.md",
@@ -222,7 +213,6 @@
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
     "DSA_Leet Code/Graph/Medium/547. Number of Provinces.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Patterns.md",
-    "Best Time to Buy and Sell Stock.md",
     "DSA_Leet Code/Graph/Hard",
     "DSA_Leet Code/Graph/Medium",
     "DSA_Leet Code/Graph/Easy",
