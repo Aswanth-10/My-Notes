@@ -10,7 +10,7 @@ ___
 - [x] 🟡 [[238. Product of Array Except Self]]
 - [x] 🟡 [[122. Best Time to Buy and Sell Stock II]]
 - [x] 🟡 [[2348. Number of Zero-Filled Subarrays]]
-- [ ] 🟡 [[Increasing Triplet Subsequence]]
+- [x] 🟡 [[334. Increasing Triplet Subsequence]]
 - [ ] 🔴 [[First Missing Positive]]
 
 ---
