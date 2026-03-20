@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+                "file": "Best Time to Buy and Sell Stock II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏆 AlgoMaster 300 — DSA Practice Tracker"
+              "title": "Best Time to Buy and Sell Stock II"
             }
           }
         ]
@@ -194,14 +194,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "9b73951cedddd203",
+  "active": "73914e0c96ab75f6",
   "lastOpenFiles": [
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/88. Merge Sorted Array.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "Best Time to Buy and Sell Stock II.md",
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/88. Merge Sorted Array.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/14. Longest Common Prefix.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/392. Is Subsequence.md",
-    "Best Time to Buy and Sell Stock II.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/125. Valid Palindrome.md",
     "2026-03-19.md",
     "Untitled.base",
