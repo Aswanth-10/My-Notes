@@ -9,7 +9,7 @@ ___
 - [x] 🟡 [[189. Rotate Array]]
 - [x] 🟡 [[238. Product of Array Except Self]]
 - [x] 🟡 [[122. Best Time to Buy and Sell Stock II]]
-- [ ] 🟡 [[Number of Zero-Filled Subarrays]]
+- [x] 🟡 [[2348. Number of Zero-Filled Subarrays]]
 - [ ] 🟡 [[Increasing Triplet Subsequence]]
 - [ ] 🔴 [[First Missing Positive]]
 

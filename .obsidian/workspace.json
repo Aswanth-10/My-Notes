@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305
   },
   "right": {
     "id": "5e2e0b10540f5bf2",
@@ -194,10 +194,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "73914e0c96ab75f6",
+  "active": "9b73951cedddd203",
   "lastOpenFiles": [
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/122. Best Time to Buy and Sell Stock II.md",
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/2348. Number of Zero-Filled Subarrays.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
+    "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/122. Best Time to Buy and Sell Stock II.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/88. Merge Sorted Array.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/14. Longest Common Prefix.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/26. Remove Duplicates from Sorted Array.md",
@@ -222,7 +223,6 @@
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/5. Longest Palindromic Substring.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Hard/42. Trapping Rain Water.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/283. Move Zeroes.md",
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Easy/202. Happy Num.md",
     "DSA_Leet Code/Graph/Hard",
     "DSA_Leet Code/Graph/Medium",
     "DSA_Leet Code/Graph/Easy",
