@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to check comit.md",
+                "file": "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to check comit"
+              "title": "🏆 AlgoMaster 300 — DSA Practice Tracker"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "3da428ffc54e0da1",
   "lastOpenFiles": [
+    "First Missing Positive.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
     "to check comit.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/334. Increasing Triplet Subsequence.md",
@@ -237,7 +238,6 @@
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/19. Remove Nth Node From End of List.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/16. 3Sum Closest.md",
     "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/11. Container With Most Water.md",
-    "DSA_Leet Code/Twopointer & Arrays & Strings/Medium/5. Longest Palindromic Substring.md",
     "DSA_Leet Code/Graph/Hard",
     "DSA_Leet Code/Graph/Medium",
     "DSA_Leet Code/Graph/Easy",
