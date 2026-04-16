@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Catppuccin",
+  "cssTheme": "",
   "showRibbon": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "accentColor": "#8528e2"
 }
