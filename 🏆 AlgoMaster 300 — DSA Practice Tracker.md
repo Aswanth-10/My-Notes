@@ -41,7 +41,7 @@ ___
 ## Hash Tables
 
 - [ ] 🟢 [[Design HashMap]]
-- [ ] 🟢 [[Maximum Number of Balloons]]
+- [x] 🟢 [[1189. Maximum Number of Balloons]]
 - [ ] 🟢 [[Number of Good Pairs]]
 - [ ] 🟢 [[Isomorphic Strings]]
 - [ ] 🟢 [[Ransom Note]]
@@ -421,7 +421,7 @@ ___
 
 ## Topological Sort
 
-- [ ] 🟡 [[Course Schedule II]]
+- [x] 🟡 [210. Course Schedule II]
 - [ ] 🟡 [[Find Eventual Safe States]]
 - [ ] 🟡 [[Minimum Height Trees]]
 - [ ] 🔴 [[Sort Items by Groups Respecting Dependencies]]
