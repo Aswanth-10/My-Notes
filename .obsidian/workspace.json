@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA_Leet Code/Graph/Easy/997.  Find the Town Judge.md",
+                "file": "OOPS/02_Complete_Topic_Breakdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "997.  Find the Town Judge"
+              "title": "02_Complete_Topic_Breakdown"
             }
           }
         ],
@@ -264,10 +264,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b73951cedddd203",
+  "active": "35a4e42e4cd529be",
   "lastOpenFiles": [
-    "DSA_Leet Code/Graph/Medium/743.  Network Delay Time.md",
+    "OOPS/01_Fundamental_Intuition.md",
+    "OOPS/11_Milestones_Checklist.md",
+    "OOPS/00_MOC_OOP_Java_Mastery.md",
     "DSA_Leet Code/Graph/Easy/997.  Find the Town Judge.md",
+    "OOPS/13_Bottlenecks_and_Solutions.md",
+    "OOPS/12_Real_World_Project.md",
+    "OOPS/10_Revision_Retention_System.md",
+    "OOPS/09_Common_Mistakes_Debugging.md",
+    "OOPS/08_Practice_Problem_Map.md",
+    "OOPS/07_Daily_Execution_Plan.md",
+    "OOPS/06_Templates_and_Patterns.md",
+    "OOPS/05_Phase3_Advanced.md",
+    "OOPS/04_Phase2_Pattern_Mastery.md",
+    "OOPS/03_Phase1_Foundation.md",
+    "OOPS/02_Complete_Topic_Breakdown.md",
+    "OOPS",
+    "DSA_Leet Code/Graph/Medium/743.  Network Delay Time.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
     "DSA_Leet Code/Graph/Medium/547.  Number of Provinces.md",
     "Course Schedule II.md",
@@ -285,23 +300,8 @@
     "First Missing Positive.md",
     "Untitled.base",
     "Untitled.canvas",
-    "Exam_preparation/OOSE/2Marks_QA_OOSE_CCS556.md",
-    "System Design/07-Interview-Prep/Interview Framework.md",
-    "System Design/06-Case-Studies/Design YouTube.md",
-    "System Design/06-Case-Studies/Design WhatsApp.md",
-    "System Design/06-Case-Studies/Design Twitter.md",
-    "System Design/06-Case-Studies/Design Search Autocomplete.md",
-    "System Design/06-Case-Studies/Design Amazon.md",
-    "System Design/05-Monitoring/Observability.md",
-    "System Design/04-Architecture/Security.md",
-    "System Design/04-Architecture/Microservices vs Monolith.md",
-    "System Design/02-Components/Rate Limiting.md",
-    "System Design/02-Components/CDN.md",
-    "System Design/02-Components/Caching.md",
-    "System Design/03-Distributed-Systems/Replication and Sharding.md",
     "System Design/03-Distributed-Systems",
     "System Design/02-Components",
-    "System Design/06-Case-Studies",
-    "System Design/05-Monitoring"
+    "System Design/06-Case-Studies"
   ]
 }
