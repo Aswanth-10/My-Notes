@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AffordMed_Backend_Interview_Prep.md",
+                "file": "Express Js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AffordMed_Backend_Interview_Prep"
+              "title": "Express Js"
             }
           }
         ],
@@ -264,10 +264,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35a4e42e4cd529be",
+  "active": "9b73951cedddd203",
   "lastOpenFiles": [
     "Express JS.md",
-    "AffordMed_Backend_Interview_Prep.md",
+    "Express Js.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
     "16. 3Sum Closest.md",
     "DSA_Leet Code/HashTables/Easy/1189. Maximum Number of Balloons.md",
