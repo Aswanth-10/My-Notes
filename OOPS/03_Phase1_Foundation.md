@@ -137,13 +137,13 @@ public class Student {
 +-----------------------------------+
 |  public (everyone)                |
 |  +-----------------------------+  |
-|  | protected (package+child)  |  |
-|  |  +----------------------+  |  |
-|  |  | default (package)   |  |  |
-|  |  |  +---------------+  |  |  |
-|  |  |  | private (me)  |  |  |  |
-|  |  |  +---------------+  |  |  |
-|  |  +----------------------+  |  |
+|  | protected (package+child)   |  |
+|  |  +----------------------+   |  |
+|  |  | default (package)    |   |  |
+|  |  |  +---------------+   |   |  | 
+|  |  |  | private (me)  |   |   |  |
+|  |  |  +---------------+   |   |  |
+|  |  +----------------------+   |  |
 |  +-----------------------------+  |
 +-----------------------------------+
 ```
@@ -292,13 +292,13 @@ Can objects be built in multiple ways?
 ---
 
 ## ✅ Phase 1 Completion Checklist
-- [ ] Can write a class from scratch with fields, constructors, methods
-- [ ] Can explain the difference between instance and static members
-- [ ] Can implement full encapsulation with private fields + public methods
-- [ ] Can use `this` keyword correctly in all contexts
-- [ ] Can write overloaded constructors with constructor chaining
-- [ ] Can write an immutable class
-- [ ] Can identify which access modifier to use in any situation
+- [x] Can write a class from scratch with fields, constructors, methods
+- [x] Can explain the difference between instance and static members
+- [x] Can implement full encapsulation with private fields + public methods
+- [x] Can use `this` keyword correctly in all contexts
+- [x] Can write overloaded constructors with constructor chaining
+- [x] Can write an immutable class
+- [x] Can identify which access modifier to use in any situation
 
 ---
 *Next: [[04_Phase2_Pattern_Mastery]]*

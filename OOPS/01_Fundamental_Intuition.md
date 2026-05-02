@@ -120,10 +120,10 @@ character.attack(); ← Polymorphism
 
 ## ✅ Intuition Check
 Before moving on, answer these without looking:
-- [ ] What's the difference between a class and an object?
-- [ ] Why would you make a field `private`?
-- [ ] What does it mean for Dog to "extend" Animal?
-- [ ] Why is `animal.makeSound()` an example of polymorphism?
+- [x] What's the difference between a class and an object?
+- [x] Why would you make a field `private`?
+- [x] What does it mean for Dog to "extend" Animal?
+- [x] Why is `animal.makeSound()` an example of polymorphism?
 
 ---
 *Next: [[02_Complete_Topic_Breakdown]]*

@@ -1,19 +1,6 @@
 # 🗺️ OOP in Java — Master Map of Content
 #oop #java #mastery #moc
 
-> **Goal:** Beginner → Advanced OOP in Java with complete depth and practical ability
-> **Time:** 4 hours/day | **Start Date:** {{date}}
-
----
-
-## 📊 Progress Dashboard
-
-| Phase | Status | Completion |
-|-------|--------|------------|
-| Phase 1: Foundation | 🔴 Not Started | 0% |
-| Phase 2: Pattern Mastery | 🔴 Not Started | 0% |
-| Phase 3: Advanced & Real-World | 🔴 Not Started | 0% |
-
 ---
 
 ## 🧭 Navigation
@@ -53,4 +40,4 @@
 > 5. Explain every concept using a real-world analogy
 
 ---
-*Last Updated: {{date}}*
+
