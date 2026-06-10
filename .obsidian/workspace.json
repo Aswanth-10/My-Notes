@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCS_Email_Writing_Questions.md",
+                "file": "TCS- Prep/Verbal/TCS_Verbal_Questions_&_Synonyms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCS_Email_Writing_Questions"
+              "title": "TCS_Verbal_Questions_&_Synonyms"
             }
           }
         ],
@@ -266,6 +266,14 @@
   },
   "active": "35a4e42e4cd529be",
   "lastOpenFiles": [
+    "TCS- Prep/Verbal/TCS_Email_Writing_Questions.md",
+    "TCS- Prep/Verbal/TCS_Verbal_Questions_&_Synonyms.md",
+    "cofounder-CpHyFzfB.jpg",
+    "Unconfirmed 932850.crdownload",
+    "TCS- Prep/Quants",
+    "TCS- Prep/Verbal",
+    "TCS- Prep/Verbal/TCS NQT Verbal Section Overview.md",
+    "TCS- Prep",
     "Express Js.md",
     "Express JS.md",
     "🏆 AlgoMaster 300 — DSA Practice Tracker.md",
@@ -290,18 +298,11 @@
     "OOPS/07_Daily_Execution_Plan.md",
     "OOPS/05_Phase3_Advanced.md",
     "OOPS",
-    "DSA_Leet Code/Graph/Medium/743.  Network Delay Time.md",
-    "DSA_Leet Code/Graph/Medium/547.  Number of Provinces.md",
-    "Course Schedule II.md",
     "DSA_Leet Code/HashTables/Hard",
     "DSA_Leet Code/HashTables/Medium",
     "DSA_Leet Code/HashTables/Easy",
     "DSA_Leet Code/HashTables",
     "Exam_preparation",
-    "Untitled.base",
-    "Untitled.canvas",
-    "System Design/03-Distributed-Systems",
-    "System Design/02-Components",
-    "System Design/06-Case-Studies"
+    "Untitled.canvas"
   ]
 }
