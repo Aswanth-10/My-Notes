@@ -29,29 +29,29 @@
 
 ### 🅰️ A – Words
 
-| Word | Meaning | TCS Synonym Options | ✅ Answer |
-|---|---|---|---|
-| **Abate** | To reduce/lessen | Increase / Diminish / Elevate / Strengthen | Diminish |
-| **Abhor** | To hate strongly | Admire / Loathe / Accept / Cherish | Loathe |
-| **Abrupt** | Sudden, unexpected | Gradual / Hasty / Planned / Smooth | Hasty |
-| **Acrimony** | Bitterness in manner | Sweetness / Hostility / Calmness / Joy | Hostility |
-| **Adroit** | Skilled, clever | Clumsy / Dexterous / Ignorant / Weak | Dexterous |
-| **Affluent** | Wealthy | Poor / Prosperous / Needy / Humble | Prosperous |
-| **Aggravate** | To worsen | Soothe / Exacerbate / Improve / Calm | Exacerbate |
-| **Alacrity** | Eagerness, speed | Laziness / Promptness / Reluctance / Delay | Promptness |
-| **Aloof** | Distant, reserved | Friendly / Detached / Warm / Social | Detached |
-| **Ambiguous** | Having double meaning | Clear / Vague / Definite / Precise | Vague |
-| **Amiable** | Friendly, pleasant | Hostile / Affable / Rude / Cold | Affable |
-| **Anguish** | Severe distress | Happiness / Torment / Comfort / Joy | Torment |
-| **Apathy** | Lack of interest | Enthusiasm / Indifference / Passion / Care | Indifference |
-| **Appease** | To pacify | Provoke / Placate / Anger / Agitate | Placate |
-| **Arduous** | Difficult, demanding | Easy / Strenuous / Simple / Relaxing | Strenuous |
-| **Arrogant** | Overly proud | Humble / Haughty / Modest / Shy | Haughty |
-| **Articulate** | Clearly expressed | Mumbling / Eloquent / Unclear / Silent | Eloquent |
-| **Astute** | Clever, shrewd | Foolish / Shrewd / Naive / Dull | Shrewd |
-| **Audacious** | Daring, bold | Timid / Brazen / Fearful / Cautious | Brazen |
-| **Austere** | Severe, plain | Luxurious / Stern / Lavish / Lenient | Stern |
-| **Avarice** | Extreme greed | Generosity / Greed / Charity / Kindness | Greed |
+| Word           | Meaning               | TCS Synonym Options                        | ✅ Answer     |
+| -------------- | --------------------- | ------------------------------------------ | ------------ |
+| **Abate**      | To reduce/lessen      | Increase / Diminish / Elevate / Strengthen | Diminish     |
+| **Abhor**      | To hate strongly      | Admire / Loathe / Accept / Cherish         | Loathe       |
+| **Abrupt**     | Sudden, unexpected    | Gradual / Hasty / Planned / Smooth         | Hasty        |
+| **Acrimony**   | Bitterness in manner  | Sweetness / Hostility / Calmness / Joy     | Hostility    |
+| **Adroit**     | Skilled, clever       | Clumsy / Dexterous / Ignorant / Weak       | Dexterous    |
+| **Affluent**   | Wealthy               | Poor / Prosperous / Needy / Humble         | Prosperous   |
+| **Aggravate**  | To worsen             | Soothe / Exacerbate / Improve / Calm       | Exacerbate   |
+| **Alacrity**   | Eagerness, speed      | Laziness / Promptness / Reluctance / Delay | Promptness   |
+| **Aloof**      | Distant, reserved     | Friendly / Detached / Warm / Social        | Detached     |
+| **Ambiguous**  | Having double meaning | Clear / Vague / Definite / Precise         | Vague        |
+| **Amiable**    | Friendly, pleasant    | Hostile / Affable / Rude / Cold            | Affable      |
+| **Anguish**    | Severe distress       | Happiness / Torment / Comfort / Joy        | Torment      |
+| **Apathy**     | Lack of interest      | Enthusiasm / Indifference / Passion / Care | Indifference |
+| **Appease**    | To pacify             | Provoke / Placate / Anger / Agitate        | Placate      |
+| **Arduous**    | Difficult, demanding  | Easy / Strenuous / Simple / Relaxing       | Strenuous    |
+| **Arrogant**   | Overly proud          | Humble / Haughty / Modest / Shy            | Haughty      |
+| **Articulate** | Clearly expressed     | Mumbling / Eloquent / Unclear / Silent     | Eloquent     |
+| **Astute**     | Clever, shrewd        | Foolish / Shrewd / Naive / Dull            | Shrewd       |
+| **Audacious**  | Daring, bold          | Timid / Brazen / Fearful / Cautious        | Brazen       |
+| **Austere**    | Severe, plain         | Luxurious / Stern / Lavish / Lenient       | Stern        |
+| **Avarice**    | Extreme greed         | Generosity / Greed / Charity / Kindness    | Greed        |
 
 ---
 
